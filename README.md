@@ -5,12 +5,12 @@ EnergyMobile is a routing application designed to create
 customized least energy cost paths for pedestrians with
 mobility limitations. It takes a user selected set of 
 addresses and a preferred balance of weighting distance 
-and grade. 
+and slope.
 
 Update Information:
 The first prototype was developed in spring 2021 as a skeletal
-python script. This current version is in the process of making 
-updates and accuracy improvements. These include: improving slope accuracy, 
+python script. This current version is current as of December 2021. Updates involved making 
+accuracy and accessability improvements. These include: improving slope accuracy, 
 adding restictions to travel modes, updating weighting and energy equations, 
 creating a user selected mode and address, automating most of the code into 
 a more user friendly repetitive structure, and general cleaning.
